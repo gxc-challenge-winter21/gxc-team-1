@@ -8,3 +8,5 @@ Our idea began with a pursuit to create an app that could be a part of existing 
 The Sprint 1 Prototype result can be found here: https://github.com/gxc-challenge-winter21/gxc-team-1/wiki/Sprint-1---Prototyping
 
 The Sprint 2 Prototype result can be found here: https://github.com/gxc-challenge-winter21/gxc-team-1/wiki/Sprint-2-Prototyping
+
+![Elevator Pitch Slide](https://github.com/gxc-challenge-winter21/gxc-team-1/blob/main/Resources/Pitch/Elevator%20Pitch%20Picture.png)
