@@ -20,9 +20,15 @@ We want to introduce you to our Digital Solution Infrastructure for Deutsche Bah
 <br>
 
 <H3> T H E &nbsp;&nbsp; P R O B L E M </H3>
-<p> 
-  
+<p> In order to visualize the problem we created a Storyboard. The Storyboard helped to picture the problem and solution within just six frames.</p>
 
+<p align="center">
+<img src="https://github.com/gxc-challenge-winter21/gxc-team-1/blob/bf0e3b8105d0e5418033182fc410a0ec5fc67b5a/Resources/Storyboard/StoryBoardDiSoIs.jpeg"
+width=100% height=100%> 
+</p>
+
+
+<H3> T H E &nbsp;&nbsp; S O L U T I O N </H3>
 
 The Sprint 1 Prototype result can be found here: https://github.com/gxc-challenge-winter21/gxc-team-1/wiki/Sprint-1---Prototyping
 
