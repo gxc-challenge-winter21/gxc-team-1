@@ -1,4 +1,4 @@
-![App Presentation](https://github.com/gxc-challenge-winter21/gxc-team-1/blob/main/Resources/Prototyping/AppPresentation.jpg)
+<img src="https://github.com/gxc-challenge-winter21/gxc-team-1/blob/main/Resources/Prototyping/AppPresentation.jpg" width="600" height="390" />
 # gxc-team-1 DiSoIs
 <p align="center">Welcome to DiSoIs repository! This is a consistent work of all our team members: <br> Isabell Menze, Jannik Schlomann, Markus Ertl and Austėja Vaičiulevičiūtė. </p>
 
