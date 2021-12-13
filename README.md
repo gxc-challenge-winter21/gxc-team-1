@@ -19,7 +19,7 @@ We want to introduce you to our Digital Solution Infrastructure for Deutsche Bah
 
   <H3> A B O U T </H3>
 <p>
-  We are glad to welcome you to our repository today. During the last three months (October 2021 - December 2021) we developed a concept how to integrate folding     bikes attractively and easily with public transport, especially in rural areas. For the implementation, we designed a digital prototype in the form of a mobile 
+  We are glad to welcome you to our repository today. During the last three months (October 2021 - December 2021) we developed a concept how to integrate folding     bikes attractively and easily with public transport, especially in suburban areas. For the implementation, we designed a digital prototype in the form of a mobile 
   app. The prototype is not meant to be a standalone application, rather it should be seen as an extension of the already existing <i>DB Navigator</i>-App. 
 </p>
 <br>
