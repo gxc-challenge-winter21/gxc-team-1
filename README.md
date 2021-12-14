@@ -19,15 +19,15 @@ We want to introduce you to our Digital Solution Infrastructure for Deutsche Bah
 
   <H3> A B O U T </H3>
 <p>
-  We are glad to welcome you to our repository today. During the last three months (October 2021 - December 2021) we developed a concept how to integrate folding     bikes attractively and easily with public transport, especially in suburban areas. For the implementation, we designed a digital prototype in the form of a mobile 
-  app. The prototype is not meant to be a standalone application, rather it should be seen as an extension of the already existing <i>DB Navigator</i>-App. 
+  We are glad to welcome you to our repository today. During the last three months (October 2021 - December 2021) we developed a concept how to integrate folding bikes attractively and easily with public transport, especially in suburban areas. For the implementation, we designed a digital prototype in the form of a mobile 
+  app. The prototype is not meant to be a stand-alone application, rather it should be seen as an extension of the already existing <i>DB Navigator</i>-App. 
 </p>
 <br>
 
 
 <H3> T H E &nbsp;&nbsp; P R O B L E M </H3>
 <p> In order to visualize the problem we created a Storyboard. The Storyboard helped to picture one of many problems and a solution within just six frames. <br> 
-Another big problem the whole world is facing is the climate crisis: Being able to enforce people to use public transportation and take a bike for the first and last mile can safe more than 120mg CO2 each kilometer.  
+Another big problem the whole world is facing is the climate crisis: being able to enforce people to use public transportation and take a bike for the first and last mile can safe more than 120mg CO2 each kilometer.  
 </p>  
 <br>             
 
@@ -47,7 +47,7 @@ width=100% height=100%>
 <H3> T H E &nbsp;&nbsp; S O L U T I O N </H3>
 
 We have been working steadily on our business model and the functionalities the prototype should have over the last weeks. <br>
-Since <i>DB Connect</i> already offers the <i>Call a Bike</i>-Service where you can rent a bike minute wise, we decided to focus on commuters. We definded commuters as those, who use the <i>DB</i> Train Service to go to work, but also everyone who takes the train regularly, be it on the weekend for a weekend trip or a holiday trip. <br>
+Since <i>DB Connect</i> already offers the <i>Call a Bike</i>-Service where you can rent a bike minute-wise, we decided to focus on commuters. We definded commuters as those, who use the <i>DB</i> Train Service to go to work, but also everyone who takes the train regularly, be it on the weekend for a weekend trip or a holiday trip. <br>
 
 
 
