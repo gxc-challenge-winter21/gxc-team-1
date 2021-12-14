@@ -31,7 +31,7 @@ Another big problem the whole world is facing is the climate crisis: Being able 
 </p>  
 <br>             
 
-Therefor we challenged us to find a solution that covers especially the affordability and flexibility. Since the climate crisis is an inescapable topic, this topic is naturally included without extra mentioning.
+Therefor we challenged us to find a solution that covers especially the affordability and flexibility. Since the climate crisis is an inescapable topic, this topic is naturally included without extra mentioning. So we came to the following How-might-we-Statement:
                  
 <p align="center">
                  <b>"How might we integrate foldable bikes in bundle options to make travel and commuting more affordable and flexible?"</b>
