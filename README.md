@@ -67,3 +67,5 @@ You can view the adapted, extended second Prototype over the following link:
 ![](https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/main/Resources/Pitch/Elevator%20Pitch%20Picture.png?token=AO4J6NCVHF5RODQHH77AZPTBYMSEA)
 
 Picture source and Copyrights reserved to the <b>Urban Mobility Store Berlin</b> https://www.theurbanmobilitystore.com/
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>You can also take a look at our GitHubPage here: <a href="https://gxc-challenge-winter21.github.io/gxc-team-1/">GitHub Page</a></p>
