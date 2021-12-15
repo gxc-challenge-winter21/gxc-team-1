@@ -1,9 +1,6 @@
-  <h2> <p align="center">Welcome to DiSoIs repository! </p> </h2>
+<h2> <p align="center">Welcome to DiSoIs repository! </p> </h2>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/main/Resources/Prototyping/AppPresentation.jpg?token=AO4J6NH2PBW6OFNCTYYXHKTBYMR64"
-width=80% height=80%> 
-</p>
+![](https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/main/Resources/Prototyping/AppPresentation.jpg?token=AO4J6NCY5WYSTNX7H4UZKQLBYNF3G)
 
 <h3>
 <p align="center">
@@ -33,10 +30,7 @@ Therefor we challenged us to find a solution that covers especially the affordab
 <b>"How might we integrate foldable bikes in bundle options to make travel and commuting more affordable and flexible?"</b>
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/bf0e3b8105d0e5418033182fc410a0ec5fc67b5a/Resources/Storyboard/StoryBoardDiSoIs.jpeg?token=AO4J6NDIX7ZGOD5A3EOQ3QLBYMSCG"
-width=100% height=100%> 
-</p>
+![](https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/bf0e3b8105d0e5418033182fc410a0ec5fc67b5a/Resources/Storyboard/StoryBoardDiSoIs.jpeg?token=AO4J6NDIX7ZGOD5A3EOQ3QLBYMSCG)
 
 <h3> T H E &nbsp;&nbsp; S O L U T I O N </h3>
 <p>
@@ -52,10 +46,7 @@ You can view the first Prototype over the following link:
 
 <b> In order to extend our prototype to the needs of the customers we did some user testing. Many thanks to the 19 particpants. </b> <br>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/a0b238383d7cb05becd06cd0d1b76aa4f6967905/Resources/User%20Testing/survey_5.2.png?token=AO4J6NAGSTFOSRCM7RKCCODBYMSDG"
-width=40% height=40%> 
-</p>
+![](https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/a0b238383d7cb05becd06cd0d1b76aa4f6967905/Resources/User%20Testing/survey_5.2.png?token=AO4J6NAGSTFOSRCM7RKCCODBYMSDG)
 
 <p align="center">
 "Which feature did you like the most?"
@@ -72,9 +63,6 @@ You can view the adapted, extended second Prototype over the following link:
 
 <h3> <p align="center"> So there is just one more thing to mention: </p> </h3>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/main/Resources/Pitch/Elevator%20Pitch%20Picture.png?token=AO4J6NCVHF5RODQHH77AZPTBYMSEA"
-width=100% height=100%> 
-</p>
+![](https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/main/Resources/Pitch/Elevator%20Pitch%20Picture.png?token=AO4J6NCVHF5RODQHH77AZPTBYMSEA)
+
 Picture source and Copyrights reserved to the <b>Urban Mobility Store Berlin</b> https://www.theurbanmobilitystore.com/
-<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>You can also take a look at our GitHubPage here: <a href="https://gxc-challenge-winter21.github.io/gxc-team-1/">GitHub Page</a></p>
