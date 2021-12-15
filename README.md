@@ -1,7 +1,7 @@
   <h2> <p align="center">Welcome to DiSoIs repository! </p> </h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/main/Resources/Prototyping/AppPresentation.jpg?token=AO4J6NH2PBW6OFNCTYYXHKTBYMR64"
+<img src="Https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/main/Resources/Prototyping/AppPresentation.jpg?token=AO4J6NH2PBW6OFNCTYYXHKTBYMR64"
 width=80% height=80%> 
 </p>
 
@@ -34,7 +34,7 @@ Therefor we challenged us to find a solution that covers especially the affordab
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/bf0e3b8105d0e5418033182fc410a0ec5fc67b5a/Resources/Storyboard/StoryBoardDiSoIs.jpeg?token=AO4J6NDIX7ZGOD5A3EOQ3QLBYMSCG"
+<img src="Https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/bf0e3b8105d0e5418033182fc410a0ec5fc67b5a/Resources/Storyboard/StoryBoardDiSoIs.jpeg?token=AO4J6NDIX7ZGOD5A3EOQ3QLBYMSCG"
 width=100% height=100%> 
 </p>
 
@@ -53,7 +53,7 @@ You can view the first Prototype over the following link:
 <b> In order to extend our prototype to the needs of the customers we did some user testing. Many thanks to the 19 particpants. </b> <br>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/a0b238383d7cb05becd06cd0d1b76aa4f6967905/Resources/User%20Testing/survey_5.2.png?token=AO4J6NAGSTFOSRCM7RKCCODBYMSDG"
+<img src="Https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/a0b238383d7cb05becd06cd0d1b76aa4f6967905/Resources/User%20Testing/survey_5.2.png?token=AO4J6NAGSTFOSRCM7RKCCODBYMSDG"
 width=40% height=40%> 
 </p>
 
@@ -73,7 +73,7 @@ You can view the adapted, extended second Prototype over the following link:
 <h3> <p align="center"> So there is just one more thing to mention: </p> </h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/main/Resources/Pitch/Elevator%20Pitch%20Picture.png?token=AO4J6NCVHF5RODQHH77AZPTBYMSEA"
+<img src="Https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/main/Resources/Pitch/Elevator%20Pitch%20Picture.png?token=AO4J6NCVHF5RODQHH77AZPTBYMSEA"
 width=100% height=100%> 
 </p>
 Picture source and Copyrights reserved to the <b>Urban Mobility Store Berlin</b> https://www.theurbanmobilitystore.com/
