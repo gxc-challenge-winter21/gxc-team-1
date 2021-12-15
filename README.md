@@ -30,6 +30,7 @@ Therefor we challenged us to find a solution that covers especially the affordab
 <b>"How might we integrate foldable bikes in bundle options to make travel and commuting more affordable and flexible?"</b>
 </p>
 
+
 ![](https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/bf0e3b8105d0e5418033182fc410a0ec5fc67b5a/Resources/Storyboard/StoryBoardDiSoIs.jpeg?token=AO4J6NDIX7ZGOD5A3EOQ3QLBYMSCG)
 
 <h3> T H E &nbsp;&nbsp; S O L U T I O N </h3>
@@ -46,7 +47,7 @@ You can view the first Prototype over the following link:
 
 <b> In order to extend our prototype to the needs of the customers we did some user testing. Many thanks to the 19 particpants. </b> <br>
 
-![](https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/a0b238383d7cb05becd06cd0d1b76aa4f6967905/Resources/User%20Testing/survey_5.2.png?token=AO4J6NAGSTFOSRCM7RKCCODBYMSDG)
+![](https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/a0b238383d7cb05becd06cd0d1b76aa4f6967905/Resources/User%20Testing/survey_5.2.png?token=AO4J6NAGSTFOSRCM7RKCCODBYMSDG?style=centerme)
 
 <p align="center">
 "Which feature did you like the most?"
