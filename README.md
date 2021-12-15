@@ -65,6 +65,7 @@ You can view the adapted, extended second Prototype over the following link:
 <h3> <p align="center"> So there is just one more thing to mention: </p> </h3>
 
 ![](https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/main/Resources/Pitch/Elevator%20Pitch%20Picture.png?token=AO4J6NCVHF5RODQHH77AZPTBYMSEA)
+![](https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/main/Resources/Pitch/Elevator%20Pitch%20Picture.png?token=AO4J6NCVHF5RODQHH77AZPTBYMSEA)
 
 Picture source and Copyrights reserved to the <b>Urban Mobility Store Berlin</b> https://www.theurbanmobilitystore.com/
 
