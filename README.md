@@ -48,7 +48,7 @@ You can view the first Prototype over the following link:
 <b> In order to extend our prototype to the needs of the customers we did some user testing. Many thanks to the 19 particpants. </b> <br>
 
 
-![](https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/main/Resources/User%20Testing/survey_5.2.png?token=AO4J6ND5JOIYQ35TBSKR7K3BYNLOE)
+![](https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/main/Resources/User%20Testing/survey_5.2.png?token=AO4J6NFBE5QL35DA3ELMXSTBYNLUS)
 
 
 <p align="center">
