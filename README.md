@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img src="https://github.com/gxc-challenge-winter21/gxc-team-1/blob/main/Resources/Prototyping/AppPresentation.jpg""
+<img src="https://github.com/gxc-challenge-winter21/gxc-team-1/blob/main/Resources/Prototyping/AppPresentation.jpg"
 width=80% height=80%> 
 </p>
                                                                                                                     
