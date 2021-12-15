@@ -48,6 +48,7 @@ You can view the first Prototype over the following link:
 <b> In order to extend our prototype to the needs of the customers we did some user testing. Many thanks to the 19 particpants. </b> <br>
 
 ![](https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/a0b238383d7cb05becd06cd0d1b76aa4f6967905/Resources/User%20Testing/survey_5.2.png?token=AO4J6NAGSTFOSRCM7RKCCODBYMSDG)
+![](https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/a0b238383d7cb05becd06cd0d1b76aa4f6967905/Resources/User%20Testing/survey_5.2.png?token=AO4J6NAGSTFOSRCM7RKCCODBYMSDG)
 
 <p align="center">
 "Which feature did you like the most?"
@@ -64,7 +65,6 @@ You can view the adapted, extended second Prototype over the following link:
 
 <h3> <p align="center"> So there is just one more thing to mention: </p> </h3>
 
-![](https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/main/Resources/Pitch/Elevator%20Pitch%20Picture.png?token=AO4J6NCVHF5RODQHH77AZPTBYMSEA)
 ![](https://raw.githubusercontent.com/gxc-challenge-winter21/gxc-team-1/main/Resources/Pitch/Elevator%20Pitch%20Picture.png?token=AO4J6NCVHF5RODQHH77AZPTBYMSEA)
 
 Picture source and Copyrights reserved to the <b>Urban Mobility Store Berlin</b> https://www.theurbanmobilitystore.com/
